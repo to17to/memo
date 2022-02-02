@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/to17to/memo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# mpv播放器键盘快捷键
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1对比度 -
 
-### Markdown
+2对比度+
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3亮度 -
 
-```markdown
-Syntax highlighted code block
+4亮度+
 
-# Header 1
-## Header 2
-### Header 3
+5伽马 -
 
-- Bulleted
-- List
+6伽马+
 
-1. Numbered
-2. List
+7饱和度 -
 
-**Bold** and _Italic_ and `Code` text
+8饱和度+
 
-[Link](url) and ![Image](src)
-```
+9音量减小
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+0音量增加
 
-### Jekyll Themes
+上方向键播放进度快进1分钟
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/to17to/memo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+下方向键播放进度快退1分钟
 
-### Support or Contact
+左方向键播放进度后退5秒
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+右方向键播放进度前进5秒
+
+ctrl与 - 号组合 音轨和视频的调节（音轨快进一些）
+
+CTRL与+号组合 音轨和视频的调节（音轨减慢一些）
+
+p或者空格 暂停
+
+i  显示视频的详情参数
+
+m 静音
+
+z 字幕后退
+
+x 字母前进
+
+f全屏
+
+q 退出
+
+＃切换音频轨，多音频的可以用
+
+j 切换字幕，多字幕的时候可以使用
+
+J 大写，反方向的切换字幕
+
+【或{   播放速度减慢，变化速度不一样
+
+】或}   播放速度加快，倍速变化速度不一样
+
+backspace 播放速度返回到一倍速
+
+< 逐帧播放
+
+> 按下播放，回弹暂停
+
+------------------------------------------
+##
+### 
+
+
